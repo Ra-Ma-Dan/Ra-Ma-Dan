@@ -1,6 +1,7 @@
 # Hi there, I'm Ra-Ma-Dan 👋
 
 🌟 **Aspiring Engineer | Lifelong Learner | Maker**
+** *Electrical and Electronics Enginner* **
 
 ---
 
