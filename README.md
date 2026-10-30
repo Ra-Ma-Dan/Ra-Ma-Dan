@@ -25,10 +25,11 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 ## 🛠️ Top Skills & Technologies
 
 - **Programming:** Python, JavaScript, C/C++
-- **Web:** HTML, CSS (TailwindCSS)
-- **Machine Learning/AI:** Exploring data, building intelligent systems
+- **Web:** HTML, CSS (TailwindCSS) & JS.
 - **Hardware:** Embedded Systems & IoT development
-- **Circuit Design:** KiCad & EasyEDA
+- **Software : ESP-IDF, ArduinoIDE, HAL, LL, FBD.
+- **Machine Learning/AI:** Exploring data, building intelligent systems.
+- **Circuit Design:** KiCad & EasyEDA.
 - **Prototyping/Simulation:** Wokwi, Falstad, MatLAB.
 
 ---
