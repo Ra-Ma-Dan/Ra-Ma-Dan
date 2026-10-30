@@ -27,7 +27,7 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 - **Programming:** Python, JavaScript, C/C++
 - **Web:** HTML, CSS (TailwindCSS) & JS.
 - **Hardware:** Embedded Systems & IoT development
-- **Software : ESP-IDF, ArduinoIDE, HAL, LL, FBD.
+- **Software:** ESP-IDF, ArduinoIDE, HAL, LL, FBD.
 - **Machine Learning/AI:** Exploring data, building intelligent systems.
 - **Circuit Design:** KiCad & EasyEDA.
 - **Prototyping/Simulation:** Wokwi, Falstad, MatLAB.
