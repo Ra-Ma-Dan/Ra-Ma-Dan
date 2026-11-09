@@ -16,6 +16,7 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ra-Ma-Dan&show_icons=true&theme=gruvbox)
+[![Ra-Ma-Dan's Activity Graph](https://vercel.app)](https://github.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-Ma-Dan&layout=compact&theme=gruvbox)
 
