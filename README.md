@@ -19,7 +19,7 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 
 ![Ra-Ma-Dan's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ra-Ma-Dan&layout=compact&theme=gruvbox)
 
-[![Ra-Ma-Dan's Activity Graph](https://vercel.app)](https://github.com)
+[![Ra-Ma-Dan's Activity Graph](https://vinit.dev)](https://github.com)
 
 
 ---
