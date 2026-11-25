@@ -39,7 +39,8 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 
 ## 🚀 Projects
 
-*Stay tuned! Favorite projects coming soon...*
+*A Smart Energy meter with Power Factor Correction with custom PCB using PZEM-004T energy sensor*.. Read in https://github.com/Ra-Ma-Dan/Smart_Watch_With_ESP32
+*A more smarter Energy Meter that support Bidirectionality of power and measure real time energy consumption* ... Read more https://github.com/Ra-Ma-Dan/Revised_Bidrectional_Smart_Meter_With_PFC
 
 ---
 
@@ -52,11 +53,13 @@ I'm an **Engineering student** passionate about creating impactful tech solution
 
 ## 🌍 Let's Connect
 
-*Social links coming soon!*
-
+*Potfolio*: https://ra-ma-dan.github.io
+*LinkedIn*: https://www.linkedin.com/in/abdulrauf-abdulmumeen-36b00a3a5
+*email*: helmzhotramadan@gmail.com
 ---
 
 > “Success is the result of preparation, hard work, and learning from failure.”
+> “Think In Code, Build In Hardware.”
 
 ---
 
